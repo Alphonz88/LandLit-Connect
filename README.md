@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏡 LandLit Connect
 
 ### Smart Land Litigation Verification & Decision Support Platform
@@ -89,3 +90,7 @@ GitHub: [@Alphonz88](https://github.com/Alphonz88)
 ---
 
 *LandLit Connect — Verify Before You Invest.*
+=======
+# LandLit-Connect
+Smart Land Litigation Verification &amp; Decision Support Platform
+>>>>>>> 7e58648d065cba364273e654e9164489104d486d
